@@ -2,3 +2,4 @@ xiaoming
 hongxing
 longren
 xinzheng
+public void main
