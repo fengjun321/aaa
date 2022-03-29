@@ -2,6 +2,6 @@ xiaoming
 hongxing
 longren
 xinzheng
-public void main
+public void mainfff
 feiji1
 yuzhoufff
